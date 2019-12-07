@@ -1,0 +1,7 @@
+{
+  "plugins": {
+    "autoprefixer": {
+      "browsers": "last 8 versions, > 1%"
+    }
+  }
+}
