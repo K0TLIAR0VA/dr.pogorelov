@@ -1,0 +1,11 @@
+.about-foto, .about-text {
+  width: 50%;
+}
+.about-foto {
+  background: #aaa;
+}
+.about-text {
+  padding: 5%;
+  background: black;
+  color: #fff;
+}
