@@ -1,0 +1,25 @@
+.blog {
+  height: 2300px;
+  display: flex;
+  flex-flow: column wrap;
+}
+.blog-post {
+  width: 30%;
+  border: 1px solid #BEBEBE;
+  margin: 0 1.66666666666666% 40px;
+}
+.blog-post-img {
+  width: 100%;
+}
+.blog-post-wrap {
+  padding: 20px;
+}
+.blog-post-title {
+  font-size: 2em;
+}
+.blog-post-link {
+  display: inline-block;
+  padding: 1em;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  background: #7D3F98;
+}
